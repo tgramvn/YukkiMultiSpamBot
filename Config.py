@@ -3,7 +3,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-STRING = getenv("STRING")
+STRING = "BQBiMZkAVZaXpWyE83H1X-ymWAGixUDT9Aem3a-fYVWn3Es1T-_haGHsosvHKNZ1PgJ0gOSUJ1H3NDpKGXhOScuvSUfHhX72fq1uZ8wcWr01VnSC9Pcw3747lO-u-vR5bTN6L3xZnSCW6lkGeF2Z3MuZqrIPkLLVweGPHfsMcw-kFB8iH8kt-xcLgjf3QrD835ZwGILu4Rc0q5y3U9WvBXuqrv2nrqsZVB36BYYzhmTMamk1a9YSoBeTnyb3mJWRYPCaAixZFWeAanAuBeyb7NEmQZXi49ZTfYDZW7RXcnG1PqiHyB5pJAXSvfl-HK5JkjLGG5ea5zENSYXFdrj8VwlEdjaenQAAAAFg24JXAA"
 STRING2 = getenv("STRING2")
 STRING3 = getenv("STRING3")
 STRING4 = getenv("STRING4")
@@ -13,7 +13,7 @@ STRING7 = getenv("STRING7")
 STRING8 = getenv("STRING8")
 STRING9 = getenv("STRING9")
 STRING10 = getenv("STRING10")
-API_ID = getenv("API_ID")
-API_HASH = getenv("API_HASH")
+API_ID = "17682850"
+API_HASH = "67a813c3c0aa14c0744de5fa16581a71"
 BIO_MESSAGE = getenv("BIO")
-SUDO = list(map(int, getenv("SUDO").split()))
+SUDO = "5754921368"
